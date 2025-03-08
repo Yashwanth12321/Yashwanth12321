@@ -1,5 +1,4 @@
-## Hi there 👋
-https://docs.google.com/document/d/1TGhunJGFrT1HtDclxhfKeqVkr08y6Sc2pE8Rk1RskSg/edit?usp=sharing
+Dev is good.
 <!--
 **Yashwanth12321/Yashwanth12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
